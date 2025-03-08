@@ -1,33 +1,39 @@
-🚀 ChatGPT Marrom – Assistente Virtual com Streamlit e OpenAI
-Este é um chatbot desenvolvido com Streamlit e a API da OpenAI, capaz de interagir com usuários e manter um histórico de mensagens.
+<h1>🚀 ChatGPT Marrom – Assistente Virtual com Streamlit e OpenAI</h1>
 
-🛠️ Tecnologias Utilizadas
-Streamlit – Para criar a interface web interativa.
-OpenAI API – Para processar as respostas do chatbot.
+<p>Este é um chatbot desenvolvido com <strong>Streamlit</strong> e a API da <strong>OpenAI</strong>, capaz de interagir com usuários e manter um histórico de mensagens.</p>
 
-📌 Como Executar o Projeto
+<h2>🛠️ Tecnologias Utilizadas</h2>
+<ul>
+  <li><strong>Streamlit</strong> – Para criar a interface web interativa.</li>
+  <li><strong>OpenAI API</strong> – Para processar as respostas do chatbot.</li>
+</ul>
 
-Clone este repositório
-git clone https://github.com/kauakfm/ai-chat-clone-streamlit.git
-cd chatgpt-marrom
+<h2>📌 Como Executar o Projeto</h2>
 
-Instale as dependências
-pip install -r requirements.txt
+<h3>1️⃣ Clone este repositório</h3>
+<pre><code>git clone https://github.com/kauakfm/ai-chat-clone-streamlit.git
+cd ai-chat-clone</code></pre>
 
-Configure sua chave de API da OpenAI
-No arquivo .streamlit/secrets.toml, adicione:
-OPENAI_API_KEY="sua-chave-aqui"
+<h3>2️⃣ Instale as dependências</h3>
+<pre><code>pip install -r requirements.txt</code></pre>
 
-Execute o chatbot
-streamlit run streamlitGPT.py
+<h3>3️⃣ Configure sua chave de API da OpenAI</h3>
+<p>No arquivo <code>.streamlit/secrets.toml</code>, adicione:</p>
+<pre><code>OPENAI_API_KEY="sua-chave-aqui"</code></pre>
 
-📂 Estrutura do Projeto
+<h3>4️⃣ Execute o chatbot</h3>
+<pre><code>streamlit run streamlitGPT.py</code></pre>
+
+<h2>📂 Estrutura do Projeto</h2>
+<pre>
 📁 AI-CHAT-CLONE
 │── app.py                # Código principal do chatbot  
 │── .streamlit/secrets.toml # Arquivo para armazenar a chave da OpenAI  
 └── README.md             # Documentação do projeto  
+</pre>
 
-💡 Contribuição
-Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias!
+<h2>💡 Contribuição</h2>
+<p>Sinta-se à vontade para abrir <strong>issues</strong> ou enviar <strong>pull requests</strong> com melhorias!</p>
 
-📩 Contato: www.linkedin.com/in/kauakfm
+<h2>📩 Contato</h2>
+<p><a href="https://www.linkedin.com/in/kauakfm" target="_blank">Meu LinkedIn</a></p>
