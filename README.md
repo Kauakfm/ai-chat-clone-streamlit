@@ -8,7 +8,7 @@ OpenAI API – Para processar as respostas do chatbot.
 📌 Como Executar o Projeto
 
 Clone este repositório
-git clone https://github.com/kauakfm/chatgpt-marrom.git
+git clone https://github.com/kauakfm/ai-chat-clone-streamlit.git
 cd chatgpt-marrom
 
 Instale as dependências
